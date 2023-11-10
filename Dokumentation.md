@@ -18,7 +18,7 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-|Hangmann |
+|## Hangmann |
 | 1    |       muss          |  Funktional    | Als ein User möchte ich, |
 | 1    |       muss          |  Funktional    | Als ein User möchte ich, |
 | 1    |       muss          |  Funktional    | Als ein User möchte ich, |
