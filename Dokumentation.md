@@ -101,6 +101,8 @@ Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 
 1. Programmiersprache: Wir nutzen C# wegen seiner Stärken in der objektorientierten Programmierung.
 
+Wir haben uns in zwei Gruppen aufgeteilt. In der ersten Gruppe kümmern sich Herr Angelov und Herr Bajramovic um das Spiel Tic Tac Toe. In der zweiten Gruppe arbeiten Herr Marku und Herr Jashari am Hangman Spiel.
+
 ## 4 Realisieren
 
 | AP-№ | Datum      | Zuständig   | geplante Zeit | tatsächliche Zeit |
