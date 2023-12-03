@@ -29,19 +29,19 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 3    |       muss          |  Funktional    | Als ein User möchte ich sehen, ob dieser Buchstabe im Wort vorkommt oder nicht. |
 | 4    |       muss          |  Funktional    | Als ein User möchte ich, dass falls es im Wort vorkommt ich sehe wo. |
 | 5    |       muss          |  Funktional    | Als ein User möchte ich sehen, wie viele versuche ich noch besitze. |
-| 6    |       muss          |  Funktional    | Als ein User möchte ich, eine Siegesnachricht erhallten, sobald ich das Wort erraten habe. |
-| 7    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhallten, wenn cih eine Fehleingabe eingegeben habe. |
-| 8    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten nochmals zu spielen |
-| 9    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten zurück zum Game Menu zu gehen. |
+| 6    |       muss          |  Funktional    | Als ein User möchte ich, eine Siegesnachricht erhalten, sobald ich das Wort erraten habe. |
+| 7    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhalten, wenn cih eine Fehleingabe eingegeben habe. |
+| 8    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten nochmals zu spielen |
+| 9    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten zurück zum Game Menu zu gehen. |
 |Tic Tac Toe |
-| 10    |       muss          |  Funktional    | Als ein User möchte ich, die Möglichkeit erhallten mit einem/einer Freund/in abwechslungsweise ein Zeichen in ein Feld einzugeben |
+| 10    |       muss          |  Funktional    | Als ein User möchte ich, die Möglichkeit erhalten mit einem/einer Freund/in abwechslungsweise ein Zeichen in ein Feld einzugeben |
 | 11    |       muss          |  Funktional    | Als ein User möchte ich, dass wenn jemand gewonnen hat eine Siegesnachricht erhallten. |
-| 12    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhallten, wenn ich eine Fehleingabe eingegeben habe. |
-| 13    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten nochmals zu spielen |
-| 14    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten zurück zum Game Menu zu gehen. |
+| 12    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhalten, wenn ich eine Fehleingabe eingegeben habe. |
+| 13    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten nochmals zu spielen |
+| 14    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten zurück zum Game Menu zu gehen. |
 | Game Menü |
-| 15   |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten eines der beiden Spiele auszuwählen. |
-| 16   |       muss          |  Funktional    | Als ein User möchte ich, die Option erhallten, dass Programm zu beenden |
+| 15   |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten eines der beiden Spiele auszuwählen. |
+| 16   |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten, dass Programm zu beenden |
 
 
 ### 1.3 Testfälle
