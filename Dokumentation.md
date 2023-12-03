@@ -91,8 +91,9 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 14.A | 27.10.2023 | Marku, Jashari, Angelov, Bajramovic | Integration der beiden Spiele in das gemeinsame Menü. | 60' |
 | 15.A | 03.11.2023 | Marku, Jashari, Angelov, Bajramovic | Finalisierung der Benutzeroberfläche für das Hauptmenü und die Spiele. | 60' |
 | 16.A | 03.11.2023 | Angelov, Bajramovic | Durchführung von Integrationstests für das gesamte Spielmenü. | 60' |
+| 17.A | 15.09.2023 - 03.11.2023 |  Marku, Jashari, Angelov, Bajramovic | Dokumentation immer wieder erweitern | 120' |
+| 18.A | 03.11.2023 | Marku, Jashari, Angelov, Bajramovic | Durchführung von Integrationstests für das gesamte Spielmenü. | 180' |
 
-Total: 60 * 16 = 960 min / 45 = 21 A
 
 ## 3 Entscheiden
 
