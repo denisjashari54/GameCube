@@ -54,7 +54,7 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 4.1  |        Im Game Hangmann      |    "Buchstabe"     |     Wo im Wort es vorkommt.              |
 | 5.1  |       Im Game Hangmann          |    -     |        (Bsp. 5 veruche übrig)           |
 | 6.1  |     Im Game Hangmann            |   "Buchstabe"      |       "Das korrekte Wort wurde rechtzeitig erraten!!"            |
-| 7.1  |     Im Game Hangmann            |    (Bsp. #,¢,@)     |     "Ihre eingabe ish ungültig geben sie nur Buchstaben ein!!"              |
+| 7.1  |     Im Game Hangmann            |    (Bsp. #,¢,@)     |     "Ihre eingabe ist ungültig geben Sie nur Buchstaben ein!!"              |
 | 8.1  |        "Das korrekte Wort wurde rechtzeitig erraten!!"          |    -     |         "Möchten Sie nochmals spielen/zurück zum Game Menu?"          |
 | 9.1  |       "Das korrekte Wort wurde rechtzeitig erraten!!"         |    -     |         "Möchten Sie nochmals spielen/zurück zum Game Menu?"           |
 | 10.1  |    Im Game Tic Tac To          |      -   |          Muster vom Freien Tic Tac To Feld.         |
