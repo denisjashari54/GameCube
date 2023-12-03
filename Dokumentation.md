@@ -4,13 +4,14 @@ Angelov, Bajramovic, Jashari, Marku
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|18.08.2023 |	0.0.1	| Kickoff-Meeting und Einführung in das Projekt. Ideen für Spielmenü gesammelt. |
-|25.08.2023 |	0.0.2 |	Entscheidung für die Entwicklung von Tic Tac Toe und Hangman in C#. Grundkonzeption der Spiele. |
-|01.09.2023 |	0.0.3 |	Beginn der Programmierung von Tic Tac Toe. Erste Tests der Benutzereingabe. |
-|08.09.2023	| 0.0.4	|Implementierung des Hangman-Spiels begonnen. Design des Spielmenüs erstellt. |
-|15.09.2023 | 0.0.5	| Tic Tac Toe: Logik für Gewinnerkennung implementiert. Hangman: Wortgenerator implementiert. |
-|22.09.2023 |	0.0.6	| Verfeinerung der Benutzerinteraktionen für beide Spiele und Verbesserung des Menüdesigns. |
-|29.09.2023	| 1.0.0 |	Abschluss der Entwicklung, finale Tests durchgeführt. Projektdokumentation finalisiert. |
+|15.09.2023 |	0.0.1	| Kickoff-Meeting und Einführung in das Projekt. Ideen für Spielmenü gesammelt. |
+|22.09.2023 |	0.0.2 |	Entscheidung für die Entwicklung von Tic Tac Toe und Hangman in C#. Beginn der Programmierung von Tic Tac Toe. Erste Tests der Benutzereingabe.  |
+|29.08.2023 |	0.0.3 |	Implementierung des Hangman-Spiels begonnen. Design des Spielmenüs erstellt. |
+|06.10.2023	| 0.0.4	| Tic Tac Toe: Logik für Gewinnerkennung implementiert. Hangman: Wortgenerator implementiert. |
+|13.10.2023 | 0.0.5	| Die Integration der beiden Spiele in das gemeinsame Menü wurde erfolgreich umgesetzt, und die Entwicklung an den Spielen selbst wurde kontinuierlich vorangetrieben.|
+|20.10.2023 |	0.0.6	| Die beiden Spiele wurden fertig programmiert.   |
+|27.10.2023	| 0.0.7 |	Verfeinerung der Benutzerinteraktionen für beide Spiele und Verbesserung des Menüdesigns. |
+|03.11.2023 | 1.0.0 | Abschluss der Entwicklung, finale Tests durchgeführt. Projektdokumentation finalisiert. |
 
 ## 1 Informieren
 
@@ -65,8 +66,6 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 16.1  |     Im Game Menu         |  -       |         "Keins"          |
 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
@@ -75,8 +74,22 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+|1.A	|19.08.2023	|Angelov	|Entwicklung der Funktion, um in Hangman ein Wort zu generieren.|	60'|
+|2.A| 20.08.2023|	Bajramovic|	Implementierung einer Option in Hangman, um einen Buchstaben einzugeben.	|60'|
+|3.A|	21.08.2023|	Jashari	| Programmierung der Logik in Hangman, um zu überprüfen, ob der Buchstabe im Wort enthalten ist.	|60'|
+|4.A|	22.08.2023|	Marku	| Entwicklung der Anzeige in Hangman, wo der Buchstabe im Wort vorkommt.	|60'|
+|5.A|	23.08.2023|	Angelov	| Entwicklung der Anzeige der verbleibenden Versuche in Hangman.	|60'|
+|6.A|	24.08.2023|	Bajramovic |	Programmierung der Siegesnachricht in Hangman.	|60' |
+|7.A|	25.08.2023|	Jashari |	Entwicklung einer Fehlermeldung bei Fehleingaben in Hangman.	|60'|
+|8.A|	26.08.2023|	Marku	| Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in Hangman.	|60'|
+|9.A|	27.08.2023|	Angelov |	Implementierung einer Option, um zum Hauptmenü zurückzukehren oder Hangman erneut zu spielen.|60'|
+|10.A|	28.08.2023|	Bajramovic |	Entwicklung der Eingabefunktion für Tic Tac Toe.	|60'|
+|11.A|	29.08.2023|	Jashari |	Implementierung der Logik für Gewinnermittlung in Tic Tac Toe.	|60'|
+|12.A|	30.08.2023|	Marku	|Programmierung der Fehlermeldung bei Fehleingaben in Tic Tac Toe.	|60'|
+|13.A|	31.08.2023|	Angelov	|Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in Tic Tac Toe. |60'|
+|14.A|	01.09.2023|	Bajramovic |	Implementierung einer Option, um zum Hauptmenü zurückzukehren oder Tic Tac Toe erneut zu spielen.	|60'|
+|15.A|	02.09.2023|	Jashari|	Entwicklung des Hauptmenüs mit der Option, eines der beiden Spiele auszuwählen.	|60'|
+|16.A |	03.09.2023|	Marku|	Implementierung der Option, das Programm zu beenden.	|60'|
 
 Total: 
 
