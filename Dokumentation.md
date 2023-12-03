@@ -30,7 +30,7 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 4    |       muss          |  Funktional    | Als ein User möchte ich, dass falls es im Wort vorkommt ich sehe wo. |
 | 5    |       muss          |  Funktional    | Als ein User möchte ich sehen, wie viele versuche ich noch besitze. |
 | 6    |       muss          |  Funktional    | Als ein User möchte ich, eine Siegesnachricht erhalten, sobald ich das Wort erraten habe. |
-| 7    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhalten, wenn cih eine Fehleingabe eingegeben habe. |
+| 7    |       muss          |  Funktional    | Als ein User möchte ich, eine Nachricht erhalten, wenn ich eine Fehleingabe eingegeben habe. |
 | 8    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten nochmals zu spielen |
 | 9    |       muss          |  Funktional    | Als ein User möchte ich, die Option erhalten zurück zum Game Menu zu gehen. |
 |Tic Tac Toe |
