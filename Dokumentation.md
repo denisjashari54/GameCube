@@ -48,7 +48,7 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |   Im Game Menu        |     Hangamann    |      -             |
+| 1.1  |   Im Game Menu        |     Hangman    |      -             |
 | 2.1  |     Im Game Hangmann         |   -        |       "Eingabefeld"            |
 | 3.1  |       Im Game Hangmann       |     "Buchstabe"    |     Ist im Wort drin /nicht drin.              |
 | 4.1  |        Im Game Hangmann      |    "Buchstabe"     |     Wo im Wort es vorkommt.              |
