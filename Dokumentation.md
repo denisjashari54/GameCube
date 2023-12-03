@@ -105,10 +105,22 @@ Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+|1.A | 19.08.2023 | Angelov | 60' | 60'|
+|2.A | 20.08.2023 | Bajramovic | 60' | 55'|
+|3.A | 21.08.2023 | Jashari | 60' | 60' |
+|4.A | 22.08.2023 | Marku | 60' | 50' |
+|5.A | 23.08.2023 | Angelov | 60' | 55' |
+|6.A | 24.08.2023 | Bajramovic | 60' | 60' |
+|7.A | 25.08.2023 | Jashari | 60' | 50' |
+|8.A | 26.08.2023 | Marku | 60' | 55' |
+|9.A | 27.08.2023 | Angelov | 60' | 60' |
+|10.A | 28.08.2023 | Bajramovic | 60' | 55' |
+|11.A | 29.08.2023 | Jashari | 60' | 50' |
+|12.A | 30.08.2023 | Marku | 60' | 55' |
+|13.A | 31.08.2023 | Angelov | 60' | 60' |
+|14.A | 01.09.2023 | Bajramovic | 60' | 55' |
+|15.A | 02.09.2023 | Jashari | 60' | 50' |
+|16.A | 03.09.2023 | Marku | 60' | 55' |
 
 ## 5 Kontrollieren
 
