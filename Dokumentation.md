@@ -50,8 +50,8 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |   Im Game Menu        |     Hangamann    |      -             |
 | 2.1  |     Im Game Hangmann         |   -        |       "Eingabefeld"            |
-| 3.1  |       Im Game Hangmann       |     "Buchtabe"    |     Ist im Wort drin /nicht drin.              |
-| 4.1  |        Im Game Hangmann      |    "Buchtabe"     |     Wo im Wort es vorkommt.              |
+| 3.1  |       Im Game Hangmann       |     "Buchstabe"    |     Ist im Wort drin /nicht drin.              |
+| 4.1  |        Im Game Hangmann      |    "Buchstabe"     |     Wo im Wort es vorkommt.              |
 | 5.1  |       Im Game Hangmann          |    -     |        (Bsp. 5 veruche übrig)           |
 | 6.1  |     Im Game Hangmann            |   "Buchstabe"      |       "Das korrekte Wort wurde rechtzeitig erraten!!"            |
 | 7.1  |     Im Game Hangmann            |    (Bsp. #,¢,@)     |     "Ihre eingabe ish ungültig geben sie nur Buchstaben ein!!"              |
