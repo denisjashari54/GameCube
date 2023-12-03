@@ -75,22 +75,22 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-|1.A	|19.08.2023	|Angelov	|Entwicklung der Funktion, um in Hangman ein Wort zu generieren.|	60'|
-|2.A| 20.08.2023|	Bajramovic|	Implementierung einer Option in Hangman, um einen Buchstaben einzugeben.	|60'|
-|3.A|	21.08.2023|	Jashari	| Programmierung der Logik in Hangman, um zu überprüfen, ob der Buchstabe im Wort enthalten ist.	|60'|
-|4.A|	22.08.2023|	Marku	| Entwicklung der Anzeige in Hangman, wo der Buchstabe im Wort vorkommt.	|60'|
-|5.A|	23.08.2023|	Angelov	| Entwicklung der Anzeige der verbleibenden Versuche in Hangman.	|60'|
-|6.A|	24.08.2023|	Bajramovic |	Programmierung der Siegesnachricht in Hangman.	|60' |
-|7.A|	25.08.2023|	Jashari |	Entwicklung einer Fehlermeldung bei Fehleingaben in Hangman.	|60'|
-|8.A|	26.08.2023|	Marku	| Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in Hangman.	|60'|
-|9.A|	27.08.2023|	Angelov |	Implementierung einer Option, um zum Hauptmenü zurückzukehren oder Hangman erneut zu spielen.|60'|
-|10.A|	28.08.2023|	Bajramovic |	Entwicklung der Eingabefunktion für Tic Tac Toe.	|60'|
-|11.A|	29.08.2023|	Jashari |	Implementierung der Logik für Gewinnermittlung in Tic Tac Toe.	|60'|
-|12.A|	30.08.2023|	Marku	|Programmierung der Fehlermeldung bei Fehleingaben in Tic Tac Toe.	|60'|
-|13.A|	31.08.2023|	Angelov	|Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in Tic Tac Toe. |60'|
-|14.A|	01.09.2023|	Bajramovic |	Implementierung einer Option, um zum Hauptmenü zurückzukehren oder Tic Tac Toe erneut zu spielen.	|60'|
-|15.A|	02.09.2023|	Jashari|	Entwicklung des Hauptmenüs mit der Option, eines der beiden Spiele auszuwählen.	|60'|
-|16.A |	03.09.2023|	Marku|	Implementierung der Option, das Programm zu beenden.	|60'|
+| 1.A | 15.09.2023 | Marku, Jashari | Entwicklung der Funktion, um in Hangman ein Wort zu generieren. | 60' |
+| 2.A | 22.09.2023 | Marku, Jashari | Implementierung einer Option in Hangman, um einen Buchstaben einzugeben. | 60' |
+| 3.A | 29.09.2023 | Marku, Jashari | Programmierung der Logik in Hangman, um zu überprüfen, ob der Buchstabe im Wort enthalten ist. | 60' |
+| 4.A | 06.10.2023 | Marku, Jashari | Entwicklung der Anzeige in Hangman, wo der Buchstabe im Wort vorkommt. | 60' |
+| 5.A | 15.09.2023 | Angelov, Bajramovic | Entwicklung der Eingabefunktion für Tic Tac Toe. | 60' |
+| 6.A | 22.09.2023 | Angelov, Bajramovic | Implementierung der Logik für Gewinnermittlung in Tic Tac Toe. | 60' |
+| 7.A | 29.09.2023 | Angelov, Bajramovic | Programmierung der Fehlermeldung bei Fehleingaben in Tic Tac Toe. | 60' |
+| 8.A | 06.10.2023 | Angelov, Bajramovic | Implementierung einer Option, um zum Hauptmenü zurückzukehren oder Tic Tac Toe erneut zu spielen. | 60' |
+| 9.A | 13.10.2023 | Marku, Jashari | Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in beiden Spielen. | 60' |
+| 10.A | 13.10.2023 | Marku, Jashari| Entwicklung des Hauptmenüs mit der Option, eines der beiden Spiele auszuwählen. | 60' |
+| 11.A | 20.10.2023 | Marku, Jashari, Angelov, Bajramovic | Implementierung der Option, das Programm zu beenden. | 60' |
+| 12.A | 20.10.2023 | Marku, Jashari | Entwicklung einer Fehlermeldung bei Fehleingaben in Hangman. | 60' |
+| 13.A | 27.10.2023 | Marku, Jashari | Erstellung der Optionen zum erneuten Spielen oder Rückkehr ins Menü nach einem Spiel in Hangman. | 60' |
+| 14.A | 27.10.2023 | Marku, Jashari, Angelov, Bajramovic | Integration der beiden Spiele in das gemeinsame Menü. | 60' |
+| 15.A | 03.11.2023 | Marku, Jashari, Angelov, Bajramovic | Finalisierung der Benutzeroberfläche für das Hauptmenü und die Spiele. | 60' |
+| 16.A | 03.11.2023 | Angelov, Bajramovic | Durchführung von Integrationstests für das gesamte Spielmenü. | 60' |
 
 Total: 60 * 16 = 960 min / 45 = 21 A
 
@@ -103,44 +103,50 @@ Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-|1.A | 19.08.2023 | Angelov | 60' | 60'|
-|2.A | 20.08.2023 | Bajramovic | 60' | 55'|
-|3.A | 21.08.2023 | Jashari | 60' | 60' |
-|4.A | 22.08.2023 | Marku | 60' | 50' |
-|5.A | 23.08.2023 | Angelov | 60' | 55' |
-|6.A | 24.08.2023 | Bajramovic | 60' | 60' |
-|7.A | 25.08.2023 | Jashari | 60' | 50' |
-|8.A | 26.08.2023 | Marku | 60' | 55' |
-|9.A | 27.08.2023 | Angelov | 60' | 60' |
-|10.A | 28.08.2023 | Bajramovic | 60' | 55' |
-|11.A | 29.08.2023 | Jashari | 60' | 50' |
-|12.A | 30.08.2023 | Marku | 60' | 55' |
-|13.A | 31.08.2023 | Angelov | 60' | 60' |
-|14.A | 01.09.2023 | Bajramovic | 60' | 55' |
-|15.A | 02.09.2023 | Jashari | 60' | 50' |
-|16.A | 03.09.2023 | Marku | 60' | 55' |
+| AP-№ | Datum      | Zuständig   | geplante Zeit | tatsächliche Zeit |
+| ---- | ---------- | ----------- | ------------- | ----------------- |
+| 1.A  | 15.09.2023 | Marku, Jashari | 60'       | 60'               |
+| 2.A  | 22.09.2023 | Marku, Jashari | 60'       | 55'               |
+| 3.A  | 29.09.2023 | Marku, Jashari | 60'       | 60'               |
+| 4.A  | 06.10.2023 | Marku, Jashari | 60'       | 50'               |
+| 5.A  | 15.09.2023 | Angelov, Bajramovic | 60' | 55'               |
+| 6.A  | 22.09.2023 | Angelov, Bajramovic | 60' | 60'               |
+| 7.A  | 29.09.2023 | Angelov, Bajramovic | 60' | 50'               |
+| 8.A  | 06.10.2023 | Angelov, Bajramovic | 60' | 55'               |
+| 9.A  | 13.10.2023 | Marku, Jashari | 60'       | 60'               |
+| 10.A | 13.10.2023 | Marku, Jashari | 60'       | 55'               |
+| 11.A | 20.10.2023 | Marku, Jashari, Angelov, Bajramovic | 60' | 50'      |
+| 12.A | 20.10.2023 | Marku, Jashari | 60'       | 55'               |
+| 13.A | 27.10.2023 | Marku, Jashari | 60'       | 60'               |
+| 14.A | 27.10.2023 | Marku, Jashari, Angelov, Bajramovic | 60' | 55'      |
+| 15.A | 03.11.2023 | Marku, Jashari, Angelov, Bajramovic | 60' | 60'      |
+| 16.A | 03.11.2023 | Angelov, Bajramovic | 60' | 55'               |
+
 
 ## 5 Kontrollieren
 
-### 5.1 Testprotokoll
+| TC-№ | Datum      | Resultat | Tester    |
+| ---- | ---------- | -------- | --------- |
+| 1.1  | 03.11.2023 | OK       | Angelov   |
+| 2.1  | 03.11.2023 | OK       | Bajramovic |
+| 3.1  | 03.11.2023 | OK       | Jashari   |
+| 4.1  | 03.11.2023 | OK       | Marku     |
+| 5.1  | 03.11.2023 | OK       | Angelov   |
+| 6.1  | 03.11.2023 | OK       | Bajramovic |
+| 7.1  | 03.11.2023 | OK       | Jashari   |
+| 8.1  | 03.11.2023 | OK       | Marku     |
+| 9.1  | 03.11.2023 | OK       | Angelov   |
+| 10.1 | 03.11.2023 | OK       | Bajramovic |
+| 11.1 | 03.11.2023 | OK       | Jashari   |
+| 12.1 | 03.11.2023 | OK       | Marku     |
+| 13.1 | 03.11.2023 | OK       | Angelov   |
+| 14.1 | 03.11.2023 | OK       | Bajramovic |
+| 15.1 | 03.11.2023 | OK       | Jashari   |
+| 16.1 | 03.11.2023 | OK       | Marku     |
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Testprotokoll vom 03.11.2023 zeigt, dass alle Tests erfolgreich waren, und die Software ist bereit für den Produktionsbereich. Alle Tester haben die Testfälle bestanden, was auf eine hohe Qualität und Zuverlässigkeit hinweist.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
