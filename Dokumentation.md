@@ -62,7 +62,7 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 | 12.1  |     Im Game Tic Tac To          |   "Bsp. c,6,?"      |    "Dies ist eine ungültige Eingabe."               |
 | 13.1  |        "X Hat gewonnen!!"          |    -     |         "Möchten Sie nochmals spielen/zurück zum Game Menu?"          |
 | 14.1  |       "O hat gewonnen!!"         |    -     |         "Möchten Sie nochmals spielen/zurück zum Game Menu?"           |
-| 15.1  |      Im Game Menu        |    -     |       "Welches speil möchten sie spiuelen (Hangamnn/ Tic Tac To)?            |
+| 15.1  |      Im Game Menu        |    -     |       "Welches speil möchten sie spiuelen (Hangamnn/ Tic Tac Toe)?            |
 | 16.1  |     Im Game Menu         |  -       |         "Keins"          |
 
 
