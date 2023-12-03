@@ -148,8 +148,5 @@ Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 Das Testprotokoll vom 03.11.2023 zeigt, dass alle Tests erfolgreich waren, und die Software ist bereit für den Produktionsbereich. Alle Tester haben die Testfälle bestanden, was auf eine hohe Qualität und Zuverlässigkeit hinweist.
 
 
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
 
 
