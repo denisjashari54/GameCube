@@ -100,7 +100,6 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 
 1. Programmiersprache: Wir nutzen C# wegen seiner Stärken in der objektorientierten Programmierung.
-2. Benutzeroberfläche: Ein einfaches und intuitives Design wird verwendet, um Benutzerfreundlichkeit zu gewährleisten.
 
 ## 4 Realisieren
 
