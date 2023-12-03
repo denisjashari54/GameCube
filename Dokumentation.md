@@ -68,7 +68,8 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://github.com/denisjashari54/GameCube/assets/110892575/0917ec8b-e7c8-4a10-b6e0-9687166176ba)
+
 
 ## 2 Planen
 
@@ -98,8 +99,7 @@ Total: 60 * 16 = 960 min / 45 = 21 A
 Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
 
 1. Programmiersprache: Wir nutzen C# wegen seiner Stärken in der objektorientierten Programmierung.
-2. Plattform: Das Spiel wird als Desktop-Anwendung entwickelt, um eine breite Zugänglichkeit zu sichern.
-3. Benutzeroberfläche: Ein einfaches und intuitives Design wird verwendet, um Benutzerfreundlichkeit zu gewährleisten.
+2. Benutzeroberfläche: Ein einfaches und intuitives Design wird verwendet, um Benutzerfreundlichkeit zu gewährleisten.
 
 ## 4 Realisieren
 
