@@ -91,15 +91,15 @@ Wir werden ein Spiel Menü mit den beiden <Spielen Tic Tac To und Hangmann progr
 |15.A|	02.09.2023|	Jashari|	Entwicklung des Hauptmenüs mit der Option, eines der beiden Spiele auszuwählen.	|60'|
 |16.A |	03.09.2023|	Marku|	Implementierung der Option, das Programm zu beenden.	|60'|
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+Total: 60 * 16 = 960 min / 45 = 21 A
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Für unser Projekt haben wir folgende Kernentscheidungen getroffen:
+
+1. Programmiersprache: Wir nutzen C# wegen seiner Stärken in der objektorientierten Programmierung.
+2. Plattform: Das Spiel wird als Desktop-Anwendung entwickelt, um eine breite Zugänglichkeit zu sichern.
+3. Benutzeroberfläche: Ein einfaches und intuitives Design wird verwendet, um Benutzerfreundlichkeit zu gewährleisten.
 
 ## 4 Realisieren
 
