@@ -4,9 +4,13 @@ Angelov, Bajramovic, Jashari, Marku
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   |  |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|18.08.2023 |	0.0.1	| Kickoff-Meeting und Einführung in das Projekt. Ideen für Spielmenü gesammelt. |
+|25.08.2023 |	0.0.2 |	Entscheidung für die Entwicklung von Tic Tac Toe und Hangman in C#. Grundkonzeption der Spiele. |
+|01.09.2023 |	0.0.3 |	Beginn der Programmierung von Tic Tac Toe. Erste Tests der Benutzereingabe. |
+|08.09.2023	| 0.0.4	|Implementierung des Hangman-Spiels begonnen. Design des Spielmenüs erstellt. |
+|15.09.2023 | 0.0.5	| Tic Tac Toe: Logik für Gewinnerkennung implementiert. Hangman: Wortgenerator implementiert. |
+|22.09.2023 |	0.0.6	| Verfeinerung der Benutzerinteraktionen für beide Spiele und Verbesserung des Menüdesigns. |
+|29.09.2023	| 1.0.0 |	Abschluss der Entwicklung, finale Tests durchgeführt. Projektdokumentation finalisiert. |
 
 ## 1 Informieren
 
